@@ -65,6 +65,7 @@ body {
     position: absolute;
     top: calc(-100% + -51px);
     left: 50%;
+    width: 120px;
     transform: translatex(-50%);
 }
 .container .avater .info {
