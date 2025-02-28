@@ -18,7 +18,7 @@ HTML5
 
 CSS3 (Flexbox & Grid for layout)
 
-git clone ([[https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1](https://github.com/AbdallahMaherDev/Stats-preview-card-6)]](https://github.com/AbdallahMaherDev/Profile-card-8))
+git clone ([(https://github.com/AbdallahMaherDev/Stats-preview-card-6)](https://github.com/AbdallahMaherDev/Profile-card-8))
 
 Open index.html in your browser to view the component.
 
