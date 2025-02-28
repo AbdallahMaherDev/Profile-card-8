@@ -32,6 +32,4 @@ If you have any feedback or suggestions, feel free to connect with me!
 
 Made with ❤️ by Abdallah Maher
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
-
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
