@@ -1,12 +1,14 @@
-# Frontend Mentor - Profile card component
+# Frontend Mentor - Profile Card Component
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "Profile Card Component" challenge from Frontend Mentor. This project is a simple yet elegant profile card that displays user details in a visually appealing way.
 
 🚀 Features
 
-Responsive and accessible design
+✔️ Fully Responsive Design – Optimized for all screen sizes.
+✔️ Clean & Well-structured Code – Easy to understand and modify.
+✔️ Minimalist & Stylish Layout – Designed with simplicity and clarity in mind.
 
 Well-structured HTML & CSS
 
@@ -14,13 +16,7 @@ Dynamic score representation
 
 🛠 Technologies Used
 
-HTML5
-
-CSS3 (Flexbox & Grid for layout)
-
-git clone ([(https://github.com/AbdallahMaherDev/Stats-preview-card-6)](https://github.com/AbdallahMaherDev/Profile-card-8))
-
-Open index.html in your browser to view the component.
+HTML  /  CSS3 (Flexbox)
 
 🎨 Preview
 
